@@ -1,0 +1,14 @@
+body {
+  background-color: #303030;
+  color: white;    
+}
+.filtros {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid gray;
+  border-radius: 10px; 
+}
+.filtros div {
+  margin-bottom: 30px;
+}
